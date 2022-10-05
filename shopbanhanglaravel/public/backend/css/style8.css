@@ -1,0 +1,82 @@
+html, body{
+	
+    background: white no-repeat 0px 0px !important;
+	
+}
+.w3layouts-main input[type="submit"] {
+	background-color: grey !important;
+}
+
+.w3layouts-main h2{
+	color:white !important;
+}
+.w3layouts-main{
+	background: black no-repeat 0px 0px !important;
+}
+.header.fixed-top.clearfix, .sidebar-toggle-box{
+	background: grey !important;
+}
+.dropdown, .dropdown-toggle{	
+	/*background: black !important;*/
+}
+
+.your-order{
+	width: 100%;
+}
+.your-order td{
+	width: 30% !important;
+}
+.your-order{
+  border-bottom: 1px solid #A9BCF5;
+  
+}
+.your-order-table tr{
+  border-bottom: 1px solid #A9BCF5;
+}
+
+
+.your-order-table td{
+  font-size: 20px;
+}
+.hr_oder{
+	 border: 3px solid grey !important;
+  border-radius: 5px !important;
+  width: 70%;
+}
+
+.brand{
+	background: grey !important;
+}
+.top-nav.clearfix{
+	background: grey !important;
+}
+
+.footer {
+	position: relative; !important;
+	right: 0px !important;
+	bottom: 0px !important;
+    background: blue !important;
+    width: 100% !important;
+    
+}
+.your-order-table{
+	width: 100%;
+}
+.your-order-table th{
+	background-color: grey;
+	width: 30%;
+}
+.your-order-table td{
+	width: 30%;
+	
+}
+.all-your-order-table3{
+	width: 100%;
+	height: auto;
+	background-color: #D8D8D8;
+}
+hr{
+	 border: 3px solid grey !important;
+  border-radius: 5px !important;
+  width: 70%;
+}
